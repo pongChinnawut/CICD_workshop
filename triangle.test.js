@@ -7,7 +7,7 @@ test("TC1 : 100,100,100", () => {
 
 // Isosceles
 test("TC2 : 100,100,50", () => {
-  expect(TriangleCalculator(100, 100, 50)).toBe("Isosceles");
+  expect(TriangleCalculator(100, 100, 50)).toBe("XXsosceles");
 });
 
 // Scalene
